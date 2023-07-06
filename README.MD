@@ -30,8 +30,8 @@ Feel free to experiment with these settings to achieve the desired visual appear
 <html>
 <head>
     <title>Azerbaijan Map</title>
-    <script src="countrymap.js"></script>
     <script src="mapdata.js"></script>
+    <script src="countrymap.js"></script>
     <style>
         #map {
             width: 100%;
