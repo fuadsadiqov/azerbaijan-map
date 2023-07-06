@@ -43,6 +43,7 @@ Feel free to experiment with these settings to achieve the desired visual appear
     <div id="map"></div>
 </body>
 </html>
+```
 In this example, the countrymap.js and mapdata.js files are included in the HTML file, and a <div> element with the id map is added to serve as the container for the map. The CSS style sets the width and height of the map container.
 
 Credits
