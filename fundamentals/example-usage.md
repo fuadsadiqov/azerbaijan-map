@@ -6,13 +6,7 @@ description: 'Using the Azerbaijan Map: An Example'
 
 **Tip:** Try out a range of different content types to keep folks engaged and interested in each feature, some content types work for different chunks of information
 
-<details>
-
-<summary>To help you get started quickly, here's a basic example of how to integrate the map into your HTML:</summary>
-
-
-
-</details>
+### To help you get started quickly, here's a basic example of how to integrate the map into your HTML:
 
 ```html
 <!DOCTYPE html>
